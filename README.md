@@ -1,2 +1,3 @@
 # Project_One
- Projeto de CLI
+Jogo da velha com Banco de dados das partidas anteriores e parte grafica, e menu para interação
+
